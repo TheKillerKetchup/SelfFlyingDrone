@@ -1,0 +1,3 @@
+collision detection
+- quadtree and bounding boxes to make sure we only check what we absolutely must
+- SAT for the actual collision detection

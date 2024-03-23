@@ -1,0 +1,10 @@
+use normal vectors
+- triple cross product
+- all normals for both shapes
+    - axis parallel with the normals
+    - min,max along axis using vertices
+    - isnt this n^2 then -> checking all vertices for all normals
+    - if axis has an overlap between min and max, then we continue
+    - if an axis seperates them, then we know they don't collide
+    - if all of the axises overlap, then we know they do collide
+- if its a circle then there is one axis, that moves from the center of the circle to the center of the polygon
