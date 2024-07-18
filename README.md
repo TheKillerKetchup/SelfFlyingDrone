@@ -7,3 +7,4 @@ At the time of creating this README, I realized I would need to refactor the ent
 The collisions folder are all the algorithms I implemented to solve the problem of collision detection. 
 In my final project, which will be under the repository "Drone Simulation", I will most likely use SAT for the detection, and Octrees/Bounding boxes for queries.
 
+Addendum 7/17/2024: This project is not yet functional, and I will divert my attention to other projects as of now.
